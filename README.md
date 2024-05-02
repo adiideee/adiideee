@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ADITI SHARMA</h1>
 <h3 align="center">Full Stack Web Developer | UIUX Enthusiast | Developing ideas into reality</h3>
-<img src="https://www.canva.com/design/DAGEFBVvnec/K8TeY0VQ0vCjIDKqD-_KKQ/"/>
+<img src="D:\banner.png"/>
 
 <p align="left"> <a href="https://twitter.com/adiiteeaaa" target="blank"><img src="https://img.shields.io/twitter/follow/adiiteeaaa?logo=twitter&style=for-the-badge" alt="adiiteeaaa" /></a> </p>
 
