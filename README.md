@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/adiiteeaaa" target="blank"><img src="https://img.shields.io/twitter/follow/adiiteeaaa?logo=twitter&style=for-the-badge" alt="adiiteeaaa" /></a> </p>
 
-- 🌱 I’m currently learning **ANDROID DEVELOPMENT**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📝 I regularly write articles on [https://medium.com/@aditisharma98574](https://medium.com/@aditisharma98574)
 
